@@ -1,40 +1,39 @@
-# Commissions for Discord Bots & Lua Scripts
+# Commissions for Discord Bots & Lua Scripts  
 
-## About Me
-I am a skilled developer offering commissions for Discord bots and Lua scripts. Whether you need a custom bot for your server or a specialized Lua script, I can deliver high-quality solutions tailored to your needs.
+## About Me  
+I’m a developer with **1+ year of Python experience** and **2+ years of Lua experience**, Whether you need a custom bot for your server or a Personal or P2C Lua script, I can provide high-quality solutions tailored to your needs. im also willing to be hired as a developer for anyone who is in need. u can find my contacts at the bottom of this page.
 
-## Services Offered
-### Discord Bot Development
-- Custom Discord bots with unique features
-- Integration with APIs and databases
-- Automation tools for moderation, logging, and more
-- Slash commands and interactive UI elements
+## Services Offered  
 
-### Lua Scripting
-- Roblox Lua scripting
-- Custom utility frameworks
-- Anti-exploit modules for security
-- Performance-optimized scripts
+### Discord Bot Development  
+- Custom bots with unique features  
+- API and database integration  
+- Automation tools for moderation, logging, and more  
+- Slash commands & interactive UI elements  
 
-## Pricing
-Pricing varies based on the complexity of the request. Below is a general guideline:
+### Lua Scripting  
+- Roblox Lua scripting  
+- Custom utility frameworks  
+- Anti-exploit modules for security  
+- Performance-optimized scripts  
 
-| Service Type       | Basic (Simple Features) | Standard (Moderate Complexity) | Advanced (Complex Systems) |
+## Pricing  
+
+Prices are based on complexity, but I aim to keep them fair and affordable:  
+
+| Service Type       | Basic (Simple Features) | Standard (Moderate Complexity) | Advanced (Complex) |
 |--------------------|------------------------|--------------------------------|----------------------------|
-| Discord Bot       | $15 - $30               | $40 - $75                     | $100+                      |
-| Lua Script        | $10 - $25               | $35 - $60                     | $80+                        |
+| **Discord Bot**   | $10 - $20                | $25 - $50                      | $60+                        |
+| **Lua Script**    | $5 - $15                | $20 - $40                      | $50+                        |  
 
-Final pricing may vary depending on specific requirements.
+Final pricing depends on the specific requirements of your request.  
 
-## Payment Methods
-- PayPal
-- CashApp
-- Other methods (upon request)
+## Payment Methods  
+- PayPal  
+- CashApp  
+- Other methods (upon request)  
 
-## Contact
-To commission a project or inquire about pricing, reach out to me:
-- **Discord:** [Your Discord Username]
-- **Email:** [Your Email (if applicable)]
-
-Let’s bring your project to life!
-
+## Contact 
+For commissions or inquiries, contact me:  
+- **Discord:** [unstable.solutions]  
+- **Email:** [mittonsmac@gmail.com]  
