@@ -1,7 +1,7 @@
 # Commissions for Discord Bots & Lua Scripts  
 
 ## About Me  
-I’m a developer with **1+ year of Python experience** and **2+ years of Lua experience**, Whether you need a custom bot for your server or a Personal or P2C Lua script, I can provide high-quality solutions tailored to your needs. im also willing to be hired as a developer for anyone who is in need. u can find my contacts at the bottom of this page.
+I’m a developer with **1+ year of Python experience** and **2+ years of Lua experience**, Whether you need a custom bot for your server or a Personal or P2C Lua script, I can provide high-quality scripts fixed to your liking. im also willing to be hired as a developer for anyone who is in need. u can find my contacts at the bottom of this page.
 
 ## Services Offered  
 
