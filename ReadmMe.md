@@ -35,5 +35,5 @@ Final pricing depends on the specific requirements of your request.
 
 ## Contact 
 For commissions or inquiries, contact me:  
-- **Discord:** [unstable.solutions]  
+- **Discord:** [setthreadidentity]  
 - **Email:** [mittonsmac@gmail.com]  
